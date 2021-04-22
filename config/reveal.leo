@@ -24,6 +24,7 @@
 <v t="leo.20210422165608.1"><vh>slide 2-2</vh></v>
 </v>
 <v t="leo.20200818170328.1"><vh>slide 3</vh></v>
+<v t="leo.20210422183039.1"><vh>slide 4</vh></v>
 </v>
 </v>
 </v>
@@ -145,7 +146,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
-    &lt;title&gt;reveal.js – The HTML Presentation Framework&lt;/title&gt;
+    &lt;title&gt;協同產品設計實習Stage2第八組&lt;/title&gt;
 
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -210,5 +211,9 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210422183039.1">&lt;section&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;影片&lt;/h3&gt;
+    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
