@@ -18,8 +18,11 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20210422155201.1"><vh>slide 2</vh></v>
+<v t="leo.20210422165917.1"><vh>slide 1</vh></v>
+<v t="leo.20210422155201.1"><vh>slide 2</vh>
+<v t="leo.20210422165608.1"><vh>slide 2-1</vh></v>
+</v>
+<v t="leo.20200818170328.1"><vh>slide 3</vh></v>
 </v>
 </v>
 </v>
@@ -169,9 +172,9 @@ vertical: body pane on the botton</t>
     &lt;a href="https://revealjs.com"&gt;
         &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;Stage2-bg8期中報告&lt;/h3&gt;
+    &lt;h3&gt;零件圖&lt;/h3&gt;
     &lt;p&gt;
-    題目:防推機構
+    &lt;img src="https://github.com/40623144/stage2-bg8/tree/main/images/零件圖.png" alt="" width="400" height="360"&gt;&lt;/p&gt; 
     &lt;/p&gt;
 &lt;/section&gt;
 
@@ -179,7 +182,28 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422155201.1">&lt;section&gt;
     &lt;h2&gt;小組倉儲&lt;/h2&gt;
     &lt;p&gt;
-        &lt;a href="https://s40723224.github.io/cd2021/content/index.html"&gt;小組倉儲&lt;/a&gt;
+        &lt;a href="https://40623144.github.io/stage2-bg8/content/index.html"&gt;小組倉儲&lt;/a&gt;
+    &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210422165608.1">&lt;section&gt;
+    &lt;h2&gt;個人倉儲&lt;/h2&gt;
+    &lt;p&gt;  &lt;a href="https://40623144.github.io/cd2021/content/index.html"&gt;40623144&lt;/a&gt;
+        &lt;a href="https://s40723224.github.io/cd2021/content/index.html"&gt;40723224&lt;/a&gt;
+        &lt;a href="https://40423155.github.io/cd2021/content/index.html"&gt;40423155&lt;/a&gt;
+        &lt;a href="https://40823233.github.io/cd2021/content/index.html"&gt;40823233&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210422165917.1">&lt;section&gt;
+    &lt;a href="https://revealjs.com"&gt;
+        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;Stage2-bg8期中報告&lt;/h3&gt;
+    &lt;p&gt;
+    題目:萬向軌道門
     &lt;/p&gt;
 &lt;/section&gt;
 
