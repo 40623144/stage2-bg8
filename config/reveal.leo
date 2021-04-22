@@ -19,7 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20210422175904.1"><vh>slide 1</vh></v>
-<v t="leo.20210422165917.1"><vh>slide 1</vh>
+<v t="leo.20210422165917.1"><vh>slide 2</vh>
 <v t="leo.20210422155201.1"><vh>slide 2-1</vh></v>
 <v t="leo.20210422165608.1"><vh>slide 2-2</vh></v>
 </v>
@@ -172,12 +172,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;/a&gt;
     &lt;h3&gt;零件圖&lt;/h3&gt;
-    &lt;p&gt;file:///E:/fall2020_cp/data/tmp/stage2-bg8/images/零件圖.png
-    &lt;img src="https://github.com/40623144/stage2-bg8/tree/main/images/零件圖.png" alt="" width="400" height="360"&gt;&lt;/p&gt; 
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+    &lt;p&gt;  &lt;img src="https://github.com/40623144/stage2-bg8/blob/main/images/%E9%9B%B6%E4%BB%B6%E5%9C%96.png?raw=true
+    " alt="零件圖" width="400" height="350"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210422155201.1">&lt;section&gt;
     &lt;h2&gt;小組倉儲&lt;/h2&gt;
     &lt;p&gt;
@@ -188,10 +185,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210422165608.1">&lt;section&gt;
     &lt;h2&gt;個人倉儲&lt;/h2&gt;
-    &lt;p&gt;  &lt;a href="https://40623144.github.io/cd2021/content/index.html"&gt;40623144&lt;/a&gt;
-        &lt;a href="https://s40723224.github.io/cd2021/content/index.html"&gt;40723224&lt;/a&gt;
-        &lt;a href="https://40423155.github.io/cd2021/content/index.html"&gt;40423155&lt;/a&gt;
-        &lt;a href="https://40823233.github.io/cd2021/content/index.html"&gt;40823233&lt;/a&gt;
+    &lt;p&gt;  &lt;a href="https://40623144.github.io/cd2021/content/index.html"&gt;40623144&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;   &lt;a href="https://s40723224.github.io/cd2021/content/index.html"&gt;40723224&lt;/a&gt;&lt;/p&gt;
+       &lt;p&gt;  &lt;a href="https://40423155.github.io/cd2021/content/index.html"&gt;40423155&lt;/a&gt;&lt;/p&gt;
+       &lt;p&gt;  &lt;a href="https://40823233.github.io/cd2021/content/index.html"&gt;40823233&lt;/a&gt;
   &lt;/p&gt;
 &lt;/section&gt;
 
