@@ -23,8 +23,13 @@
 <v t="leo.20210422155201.1"><vh>slide 2-1</vh></v>
 <v t="leo.20210422165608.1"><vh>slide 2-2</vh></v>
 </v>
-<v t="leo.20200818170328.1"><vh>slide 3</vh></v>
-<v t="leo.20210422183039.1"><vh>slide 4</vh></v>
+<v t="leo.20210422184032.1"><vh>slide 3</vh>
+<v t="leo.20210422184032.2"><vh>slide 3-1</vh></v>
+<v t="leo.20210422184032.3"><vh>slide 3-2</vh></v>
+<v t="leo.20210422184239.1"><vh>slide 3-3</vh></v>
+</v>
+<v t="leo.20200818170328.1"><vh>slide 4</vh></v>
+<v t="leo.20210422183039.1"><vh>slide 5</vh></v>
 </v>
 </v>
 </v>
@@ -177,7 +182,6 @@ vertical: body pane on the botton</t>
     " alt="零件圖" width="400" height="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422155201.1">&lt;section&gt;
-    &lt;h2&gt;小組倉儲&lt;/h2&gt;
     &lt;p&gt;
         &lt;a href="https://40623144.github.io/stage2-bg8/content/index.html"&gt;小組倉儲&lt;/a&gt;
     &lt;/p&gt;
@@ -201,10 +205,8 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20210422175904.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;Stage2-bg8期中報告&lt;/h3&gt;
+    &lt;h2&gt;Stage2-bg8期中報告&lt;/h2&gt;
     &lt;p&gt;
     題目:萬向軌道門
     &lt;/p&gt;
@@ -215,5 +217,58 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;影片&lt;/h3&gt;
     &lt;/section&gt;</t>
+<t tx="leo.20210422184032.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210422184032.2">&lt;section&gt;
+    &lt;p&gt;
+         討論:
+
+原本兩組的題目是腳踏車以及防推機構(雨傘)，
+
+這兩者是完全不同的兩個東西，所以在討論過後兩者各自的題目都無法繼續進行下去
+
+所以我們決定要融合兩者的特色發展與前兩者有相似卻又不一樣的機構
+
+最後我們的決定是有機構輪轉，以及能夠自動移動的自動門
+    &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210422184032.3">&lt;section&gt;
+題目發想:
+
+自動門，聽起來就不是什麼了不起的題目
+
+透過兩邊的皮帶輪或是齒輪轉動，讓門自行開開關關而已，有點遜
+
+所以我們決定加一些小東西來顯得特別。
+
+在機械設計的模擬環境，是不能夠使用捲門的
+
+捲門就是讓薄薄的門框進行捲動，然後縮到梁柱收著，
+
+一般家用的鐵捲門幾乎都是這樣設計，考量到模擬程式的環境要做出類似得東西困難度很高
+  &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210422184239.1">&lt;section&gt;
+移動的機構:
+
+再來我們知道，想要左右移動自動門很容易
+
+但裡面內部構造卻很不簡單，
+
+首先我找到了一個類似的機械參考
+
+就是平常停車場單人車位收費所使用的停車擋板。
+  &lt;/p&gt;
+&lt;/section&gt;
+
+</t>
 </tnodes>
 </leo_file>
