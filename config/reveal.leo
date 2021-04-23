@@ -288,9 +288,9 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="leo.20210423131032.1">&lt;section&gt;
     &lt;/a&gt;
-&lt;h3&gt;參考資料&lt;/h3&gt; &lt;a href="https://www.j-home.com.tw/products_detail_1578.htm"&gt;九宏五金&lt;/a&gt;
-&lt;a href="http://www.taipeideco.com.tw/hardware-confluence/pulley-sliding/ee047-detail"&gt;振威企業&lt;/a&gt;
-&lt;a href="https://www.youtube.com/watch?v=IeH_5xnb0k8"&gt;強盛家室修&lt;/a&gt;
+&lt;h3&gt;參考資料&lt;/h3&lt;p&gt; &lt;a href="https://www.j-home.com.tw/products_detail_1578.htm"&gt;九宏五金&lt;/a&gt;&lt;p&gt;
+&lt;p&gt;&lt;a href="http://www.taipeideco.com.tw/hardware-confluence/pulley-sliding/ee047-detail"&gt;振威企業&lt;/a&gt;&lt;p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IeH_5xnb0k8"&gt;強盛家室修&lt;/a&gt;&lt;p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210423131128.1">&lt;section&gt;
     &lt;/a&gt;
@@ -298,7 +298,7 @@ vertical: body pane on the botton</t>
 
     &lt;/section&gt;</t>
 <t tx="leo.20210423131503.1">&lt;section&gt;
-    &lt;/a&gt;    &lt;p&gt;  &lt;img src="https://github.com/s40723224/stage2-bg8/blob/6811b73cb7ab76a3b6127848b56ceceb66ba14cb/images/%E5%AF%A6%E7%BF%92003.jpg"
+    &lt;/a&gt;    &lt;p&gt; 流程圖&lt;p&gt;&lt;p&gt; &lt;img src="https://github.com/s40723224/stage2-bg8/blob/6811b73cb7ab76a3b6127848b56ceceb66ba14cb/images/%E5%AF%A6%E7%BF%92003.jpg?raw=true"
     "alt="流程圖" width="400" height="350"&gt;&lt;/p&gt;
 
 
