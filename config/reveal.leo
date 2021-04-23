@@ -19,10 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20210422175904.1"><vh>slide 1</vh></v>
-<v t="leo.20210422165917.1"><vh>slide 2</vh>
-<v t="leo.20210422155201.1"><vh>slide 2-1</vh></v>
-<v t="leo.20210422165608.1"><vh>slide 2-2</vh></v>
-</v>
+<v t="leo.20210422155201.1"><vh>slide 2</vh></v>
 <v t="leo.20210422184032.1"><vh>slide 3</vh>
 <v t="leo.20210422184032.2"><vh>slide 3-1</vh></v>
 <v t="leo.20210422184032.3"><vh>slide 3-2</vh></v>
@@ -188,34 +185,26 @@ vertical: body pane on the botton</t>
     " alt="零件圖" width="400" height="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210422155201.1">&lt;section&gt;
-    &lt;p&gt;
-        &lt;a href="https://40623144.github.io/stage2-bg8/content/index.html"&gt;小組倉儲&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20210422165608.1">&lt;section&gt;
-    &lt;h2&gt;個人倉儲&lt;/h2&gt;
+&lt;h2&gt;個人倉儲&lt;/h2&gt;
     &lt;p&gt;  &lt;a href="https://40623144.github.io/cd2021/content/index.html"&gt;40623144&lt;/a&gt;&lt;/p&gt;
       &lt;p&gt;   &lt;a href="https://s40723224.github.io/cd2021/content/index.html"&gt;40723224&lt;/a&gt;&lt;/p&gt;
        &lt;p&gt;  &lt;a href="https://40423155.github.io/cd2021/content/index.html"&gt;40423155&lt;/a&gt;&lt;/p&gt;
        &lt;p&gt;  &lt;a href="https://40823233.github.io/cd2021/content/index.html"&gt;40823233&lt;/a&gt;
-  &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20210422165917.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
+    &lt;p&gt;
+      &lt;h2&gt;  &lt;a href="https://40623144.github.io/stage2-bg8/content/index.html"&gt;小組倉儲&lt;/a&gt;&lt;/h2&gt;
+    &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20210422175904.1">&lt;section&gt;
     &lt;/a&gt;
+  &lt;h1&gt;  協同產品設計實習&lt;/h1&gt;
     &lt;h2&gt;Stage2-bg8期中報告&lt;/h2&gt;
     &lt;p&gt;
     題目:萬向軌道門
     &lt;/p&gt;
+     
+  &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -279,7 +268,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210423130721.1">&lt;section&gt;
     &lt;/a&gt;
     &lt;h3&gt;模擬&lt;/h3&gt;
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FecxkBLTXnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;iframe width="700" height="350" src="https://www.youtube.com/embed/FecxkBLTXnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
     &lt;/section&gt;</t>
 <t tx="leo.20210423130738.1">&lt;section&gt;
     &lt;/a&gt;
@@ -288,7 +277,7 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="leo.20210423131032.1">&lt;section&gt;
     &lt;/a&gt;
-&lt;h3&gt;參考資料&lt;/h3&lt;p&gt; &lt;a href="https://www.j-home.com.tw/products_detail_1578.htm"&gt;九宏五金&lt;/a&gt;&lt;p&gt;
+&lt;p&gt;&lt;h2&gt;參考資料&lt;/h2&gt;&lt;p&gt;&lt;p&gt; &lt;a href="https://www.j-home.com.tw/products_detail_1578.htm"&gt;九宏五金&lt;/a&gt;&lt;p&gt;
 &lt;p&gt;&lt;a href="http://www.taipeideco.com.tw/hardware-confluence/pulley-sliding/ee047-detail"&gt;振威企業&lt;/a&gt;&lt;p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IeH_5xnb0k8"&gt;強盛家室修&lt;/a&gt;&lt;p&gt;
 &lt;/section&gt;</t>
@@ -299,7 +288,7 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="leo.20210423131503.1">&lt;section&gt;
     &lt;/a&gt;    &lt;p&gt; 流程圖&lt;p&gt;&lt;p&gt; &lt;img src="https://github.com/s40723224/stage2-bg8/blob/6811b73cb7ab76a3b6127848b56ceceb66ba14cb/images/%E5%AF%A6%E7%BF%92003.jpg?raw=true"
-    "alt="流程圖" width="400" height="350"&gt;&lt;/p&gt;
+    "alt="流程圖" width="250" height="550"&gt;&lt;/p&gt;
 
 
     &lt;/section&gt;</t>
