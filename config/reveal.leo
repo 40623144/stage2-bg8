@@ -29,7 +29,13 @@
 <v t="leo.20210422184239.1"><vh>slide 3-3</vh></v>
 </v>
 <v t="leo.20200818170328.1"><vh>slide 4</vh></v>
-<v t="leo.20210422183039.1"><vh>slide 5</vh></v>
+<v t="leo.20210423130721.1"><vh>slide 5</vh></v>
+<v t="leo.20210422183039.1"><vh>slide 6</vh>
+<v t="leo.20210423131503.1"><vh>slide 6-1</vh></v>
+<v t="leo.20210423131128.1"><vh>slide 6-2</vh></v>
+<v t="leo.20210423130738.1"><vh>slide 6-3</vh></v>
+</v>
+<v t="leo.20210423131032.1"><vh>slide 7</vh></v>
 </v>
 </v>
 </v>
@@ -213,11 +219,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20210422183039.1">&lt;section&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;模擬&lt;/h3&gt;
-    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FecxkBLTXnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-    &lt;/section&gt;</t>
+<t tx="leo.20210422183039.1">&lt;!-- Example of nested vertical slides --&gt;
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
 <t tx="leo.20210422184032.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
@@ -271,5 +276,32 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
+<t tx="leo.20210423130721.1">&lt;section&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;模擬&lt;/h3&gt;
+    &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FecxkBLTXnc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210423130738.1">&lt;section&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;&lt;a href="https://40623144.github.io/stage2-bg8/content/%E5%B0%8F%E7%B5%84%E5%A4%9A%E4%BA%BA%E5%8D%94%E5%90%8C%E5%80%89%E5%84%B2%E5%95%8F%E9%A1%8C.html"&gt;遭遇的問題&lt;/a&gt;&lt;/h3&gt;
+
+    &lt;/section&gt;</t>
+<t tx="leo.20210423131032.1">&lt;section&gt;
+    &lt;/a&gt;
+&lt;h3&gt;參考資料&lt;/h3&gt; &lt;a href="https://www.j-home.com.tw/products_detail_1578.htm"&gt;九宏五金&lt;/a&gt;
+&lt;a href="http://www.taipeideco.com.tw/hardware-confluence/pulley-sliding/ee047-detail"&gt;振威企業&lt;/a&gt;
+&lt;a href="https://www.youtube.com/watch?v=IeH_5xnb0k8"&gt;強盛家室修&lt;/a&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210423131128.1">&lt;section&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;&lt;a href="https://40623144.github.io/stage2-bg8/content/W5.html"&gt;每周進度&lt;/a&gt;&lt;/h3&gt;
+
+    &lt;/section&gt;</t>
+<t tx="leo.20210423131503.1">&lt;section&gt;
+    &lt;/a&gt;    &lt;p&gt;  &lt;img src="https://github.com/s40723224/stage2-bg8/blob/6811b73cb7ab76a3b6127848b56ceceb66ba14cb/images/%E5%AF%A6%E7%BF%92003.jpg"
+    "alt="流程圖" width="400" height="350"&gt;&lt;/p&gt;
+
+
+    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
